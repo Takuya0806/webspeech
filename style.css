@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Verdana, sans-serif;
+}
+
+header {
+    background: #ececec;
+    height: 100px;
+}
+
+header h1 {
+    font-weight: normal;
+    text-align: center;
+    text-shadow: 1px 1px 0 #fff;
+    line-height: 100px;
+    margin: 0;
+}
+
+.container {
+    width: 500px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 30px;
+}
+
+#btn {
+    border: none;
+    width: 150px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    color: #fff;
+    background: #00aaff;
+    border-radius: 5px;
+    box-shadow: 0 4px 0 #0088cc;
+}
